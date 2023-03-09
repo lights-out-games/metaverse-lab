@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 0
   sku: 640661e5535452fca6540b10
-  packageName: Metaverse Lab
+  packageName: Space Tower 1
   thumbnail: {fileID: 0}
   variants:
-  - name: v1.1
+  - name: v1.0
     id: da7d0f269e20412b8cdcb7dd77fe4f52
     scene: {fileID: 102900000, guid: 163f8e4ccf0584b458dde23139892772, type: 3}
     thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
