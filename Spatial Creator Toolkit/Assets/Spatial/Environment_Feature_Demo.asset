@@ -23,3 +23,9 @@ MonoBehaviour:
     thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
     miniThumbnail: {fileID: 0}
     thumbnailColor: {r: 0, g: 0, b: 1, a: 1}
+  - name: BoomboxDemo
+    id: 4379df4a68404006985d14ac6687123b
+    scene: {fileID: 102900000, guid: 27c1e82452fc048cc8674f9599c17cd5, type: 3}
+    thumbnail: {fileID: 0}
+    miniThumbnail: {fileID: 0}
+    thumbnailColor: {r: 0, g: 0, b: 1, a: 1}
