@@ -29,3 +29,9 @@ MonoBehaviour:
     thumbnail: {fileID: 0}
     miniThumbnail: {fileID: 0}
     thumbnailColor: {r: 0, g: 0, b: 1, a: 1}
+  - name: Staging
+    id: 4bada5debf7c4461b346fef6c36082b4
+    scene: {fileID: 102900000, guid: f4a1a51a2c0c93d49b89d23b064ef840, type: 3}
+    thumbnail: {fileID: 0}
+    miniThumbnail: {fileID: 0}
+    thumbnailColor: {r: 0, g: 0, b: 1, a: 1}
