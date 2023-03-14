@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Emotes
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Emotes","summary":"watch
+      for avatar emotes","pan":{"x":165.0,"y":14.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"5790c4fa-3333-44bb-ba7c-15e3d546ad00","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"fee0266c-8ade-49af-87be-79faa0519075","$version":"A","$type":"Unity.VisualScripting.Update"},{"coroutine":false,"defaultValues":{},"position":{"x":53.0,"y":-50.0},"guid":"3cd97455-d505-4f64-9a58-cce330612657","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.OnLocalAvatarEmoteNode","$id":"13"},{"defaultValues":{"questRef":null,"taskID":{"$content":3,"$type":"System.UInt32"}},"position":{"x":469.0,"y":35.0},"guid":"c43fcac4-4b30-49c2-ba6b-146bcc17f125","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.CompleteSpatialQuestTaskNode","$id":"15"},{"coroutine":false,"defaultValues":{"key":{"$content":"Z","$type":"UnityEngine.KeyCode"},"action":{"$content":"Down","$type":"Unity.VisualScripting.PressState"}},"position":{"x":8.0,"y":64.0},"guid":"886f6f36-4b00-4942-8342-adbff160434d","$version":"A","$type":"Unity.VisualScripting.OnKeyboardInput","$id":"17"},{"chainable":false,"member":{"name":"Play","parameterTypes":[],"targetType":"UnityEngine.ParticleSystem","targetTypeName":"UnityEngine.ParticleSystem","$version":"A"},"defaultValues":{"target":null},"position":{"x":270.0,"y":35.0},"guid":"7290920e-31cc-4313-8694-2934da88f930","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"19"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"Quest_Tour","$type":"System.String"}},"position":{"x":377.0,"y":-133.0},"guid":"3e888b30-b4b0-47b3-952d-93390d35e49a","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"22"},{"sourceUnit":{"$ref":"13"},"sourceKey":"trigger","destinationUnit":{"$ref":"19"},"destinationKey":"enter","guid":"a20cd332-57c2-4828-877d-b67aa4efe7db","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"trigger","destinationUnit":{"$ref":"19"},"destinationKey":"enter","guid":"225e9ba0-14fe-4dd6-b8a1-0723096d3076","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"exit","destinationUnit":{"$ref":"15"},"destinationKey":"inputTrigger","guid":"afba864a-9df2-490a-a473-e39d1bab0bcc","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"22"},"sourceKey":"value","destinationUnit":{"$ref":"15"},"destinationKey":"questRef","guid":"d7dd1811-befc-4020-8ef3-1cc76e7644e0","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
