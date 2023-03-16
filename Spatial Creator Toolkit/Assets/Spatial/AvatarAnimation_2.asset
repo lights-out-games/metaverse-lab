@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d36d341c4b284ca3b26c44859a9ecb1, type: 3}
+  m_Name: AvatarAnimation_2
+  m_EditorClassIdentifier: 
+  version: 0
+  sku: 641250a636e56f9dcb38758f
+  packageName: TreadingWater
+  thumbnail: {fileID: 2800000, guid: e33c1e2f76a634be291516f3c0c4cbf8, type: 3}
+  prefab: {fileID: 861891939353473948, guid: 9960896a603d1aa4288f97605b41693f, type: 3}
+  type: 0
